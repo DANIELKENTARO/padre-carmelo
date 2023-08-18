@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(11, 153, 106);
+    color: rgb(255, 255, 255);
+    margin: auto;
+}
+#a{
+    border-color: black;
+    border-width: 1px;
+    border-top: 1px black double;
+}
+#hr{
+    border-color: black;
+    border-width: 2px;
+}
+img{
+    margin: auto;
+    display: block;
+}
+footer a h2{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}

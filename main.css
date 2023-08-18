@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(0, 0, 0, 0.493);
+    margin: auto;
+}
+.pagina{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(155, 199, 255, 0.356);
+    font-size: 34px;
+    font-family:fantasy;
+    border-radius: 9999px;
+    border: 2px dotted black;
+}
+h1{
+    font-size: 38px;
+}
+hr{
+    border: 4px double rgba(160, 160, 160, 0.185);
+}
+#hr{
+    border: 4px double rgba(54, 54, 54, 0.507);
+    border-radius: 10000px;
+    margin: 0% 1cm;
+}
+.formlogin{
+    border-radius: 1000px;
+}
+a{
+    
+    font-size: 10px;
+    text-decoration: none;
+    color: rgb(69, 49, 247);
+}
+.BTN{
+    border-radius: 1000px;
+    border: 2px solid #096f7cd5;
+}
